@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(claude --ide:*)",
+      "Bash(claude config list:*)",
+      "Bash(claude config get:*)"
+    ]
+  }
+}
