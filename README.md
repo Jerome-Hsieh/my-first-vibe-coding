@@ -11,6 +11,12 @@
 
 > 如果你要 fork 或使用本專案，請記得到 `.devcontainer/devcontainer.json` 中修改 container 名稱（`--name`）和時區，以符合你自己的需求。
 
+## 參考影片
+
+[![YouTube](https://img.shields.io/badge/YouTube-影片教學-red)](https://www.youtube.com/watch?v=VB68aY71bTI)
+
+本專案參考此影片進行實作：https://www.youtube.com/watch?v=VB68aY71bTI
+
 ## 截圖
 
 ![screenshot](2026-02-09%2023.24.51.png)
